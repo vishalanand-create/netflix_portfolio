@@ -1,6 +1,8 @@
 {
-  "name": "netflix_portfolio",
-  "version": "0.1.0",
+  "name": "vishal-anand-portfolio",  "version": "0.1.0",
+    "description": "Professional portfolio for Vishal Anand - Customer Success Team Lead at MyOperator",
+  "author": "Vishal Anand <vishalanand.work@gmail.com>",
+  "homepage": "https://github.com/vishalanand-create/netflix_portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
