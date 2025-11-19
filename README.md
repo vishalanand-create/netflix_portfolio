@@ -1,123 +1,136 @@
-## 🌟 Sumanth Samala's Netflix inspired Portfolio 🌟 - https://sumanthsamala.com/
+## 🌟 Vishal Anand's Professional Portfolio 🌟
 
-Welcome to my personal portfolio project! 🚀 This website showcases my work, skills, and experiences in web development. It's designed to be lightweight, customizable, and professional while maintaining an approachable style.
+### Welcome to my portfolio!
 
-Explore specific subdomains tailored to different tech stacks:
+Customer Success Team Lead with 5+ years of experience in client lifecycle management and 1.5+ years leading customer success teams. I specialize in renewals, expansion, team performance, and driving customer satisfaction across enterprise SaaS environments.
 
-- 🌟 [java.sumanthsamala.com](https://java.sumanthsamala.com/) for Java Spring Boot-related work.
-- 🌟 [node.sumanthsamala.com](https://node.sumanthsamala.com/) for Node.js and backend development.
-- 🌟 [frontend.sumanthsamala.com](https://frontend.sumanthsamala.com/) for frontend development expertise.
-- 🌟 [ror.sumanthsamala.com](https://ror.sumanthsamala.com/) for Ruby on Rails projects.
-
-![Screenshot from 2024-12-08 19-19-06](https://github.com/user-attachments/assets/f8220485-16ec-48cf-8cb2-7853540c5724)
+📍 **Location:** Delhi NCR, India  
+📧 **Email:** vishalanand.work@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vishal-anand](https://linkedin.com/in/vishal-anand)  
+📱 **Phone:** +91 91636 17276
 
 ---
 
-## ✨ Features
+## 💼 Professional Summary
 
-- 🌍 **Dynamic Content**: Powered by [DatoCMS](https://www.datocms.com) for easy content management.
-- ⚡ **Fast & Responsive**: Built with modern web technologies for seamless performance.
-- 🎨 **Customizable**: Modular and easy to adapt to your own needs.
-- 📈 **Professional Yet Personal**: Highlights projects, skills, and achievements.
-- 🎨 It can support various por
+As a **Customer Success Team Lead at MyOperator**, I lead a team of 4 Account Managers and coordinate with 30+ indirect stakeholders across Support, Solutions, Billing, QA, and Sales to:
 
----
-
-## 🛠️ Tech Stack
-
-This portfolio is built with love and:
-
-- ⚛️ **React** (Frontend)
-- ☁️ **AWS S3 & CloudFront** (Hosting and CDN)
-- 🖌️ **Tailwind CSS** (Styling)
-- 🛡️ **DatoCMS** (Content Management)
-- 🧩 **Other Cool Tools**: GitHub Actions
+- 📈 Drive **₹6.5M+ in upgrades** across 12 months (peak: ₹1.17M in a single month - 156% of target)
+- 🎯 Maintain **80% average renewal rate** across SMB & Enterprise segments
+- 📉 Reduce churn from **30% to 18%**, protecting **₹30M ARR**
+- ⭐ Achieve **95% CSAT** and **30+ NPS** scores
+- 🔧 Cut response time by **90%** and resolution time by **60%** through SOPs and training
 
 ---
 
-## ⭐ Show Your Support
+## 🚀 Core Competencies
 
-If you find this project helpful or inspiring, give it a ⭐ on GitHub—it means the world to me! 🌟
+### Leadership & Strategy
+- Team Leadership & Coaching (4 direct, 30+ indirect stakeholders)
+- Renewal Leadership (GRR & NRR optimization)
+- Upsell/Cross-sell Playbook Development
+- Onboarding & Time-to-First-Value Optimization
 
-Happy coding! 💻✨
+### Customer Success Operations
+- Health Scoring & Churn-Risk Taxonomy
+- Dashboard Development (Adoption, CSAT/NPS, GRR/NRR)
+- Escalation Ownership with 24-48h SLAs
+- Root Cause Analysis & Corrective Action Plans
+
+### Technical Skills
+- **CRM & CS Tools:** Salesforce, HubSpot, Zoho CRM
+- **Communication Platforms:** WhatsApp Business API, MyOperator Platform
+- **Analytics:** Excel, Google Sheets, BI Dashboards
+- **Project Management:** Ticketing & QA Systems
 
 ---
 
-## 📚 Getting Started
+## 📊 Key Achievements
 
-Want to set this up locally? Follow these steps:
+### At MyOperator (June 2023 - Present)
 
-1. **Clone the Repository**: Copy the repository to your local system.
-2. **Install Dependencies**: Use a package manager to install the required dependencies.
+**Revenue & Expansion**
+- 💰 Delivered **₹6.5M in upgrades** across 12 months
+- 🏆 Achieved **156% of target** in peak month (₹1.17M)
+- 📱 Drove adoption of WhatsApp CX add-ons through trigger-based plays
 
-```bash
-nvm install 18
-nvm use 18
+**Retention & Renewals**
+- ✅ Maintained **80% average renewal rate**
+- 📉 Reduced churn from **30% to 18%**
+- 💪 Protected **₹30M ARR** and strengthened GRR/NRR
+
+**Customer Experience**
+- ⭐ **95% CSAT** and **30+ NPS** scores
+- 📈 Improved team QA scores from **65% to 92%**
+- ⚡ Reduced response time by **90%** and resolution time by **60%**
+
+**Process & Operations**
+- 📊 Implemented health scoring and churn-risk taxonomy
+- 📈 Built weekly dashboards for adoption, CSAT/NPS, GRR/NRR tracking
+- 🎯 Established SOPs and training programs
+- 🔥 Reduced escalations to **<5/month** team-wide with improved FCR
+
+---
+
+## 💡 Experience Highlights
+
+### MyOperator / VoiceTree Technologies, Noida
+**Team Lead, Customer Success** (June 2023 - Present)
+- Lead and coach 4 Account Managers through weekly reviews, call coaching, and quarterly business reviews
+- Coordinate 30+ indirect stakeholders to drive product adoption, renewals, and expansion
+- Own high-severity escalations with 24-48h SLAs and comprehensive RCA/CAP processes
+- Develop trigger-based upsell/cross-sell playbooks for WhatsApp CX and other add-ons
+
+### 91springboard, Delhi NCR
+**Community Manager** (Sep 2021 - May 2023)
+- Achieved **90% occupancy** and **30% renewal rate** through community programs
+- Implemented SOPs and CRM hygiene processes
+- Enhanced member experience and improved conversion rates
+
+**Front Office Executive** (Jul 2019 - Aug 2021)
+- Provided first-line customer experience and CRM reporting
+- Collaborated with sales teams to improve member conversions
+
+---
+
+## 🎓 Education
+
+- **BA (Hons) International Hotel Management** - University of West London
+- **BSc Catering Science & Hotel Management** - Bharathiar University
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+```
+CRM & CS Platforms: Salesforce | HubSpot | Zoho CRM
+Communication: WhatsApp Business API | MyOperator Platform
+Analytics: Excel | Google Sheets | BI Dashboards  
+Support: Ticketing Systems | QA Tools
 ```
 
-After upgrading Node.js, clear your node_modules and reinstall:
+---
 
-```bash
-rm -rf node_modules
-npm cache clean --force
-npm install
-```
+## 📫 Let's Connect!
 
-3. **Configure Environment Variables**: Create a `.env` file and set up the necessary API keys and configurations.
-4. **Run the Project**: Start the development server.
+I'm passionate about driving customer success, building high-performing teams, and leveraging data to optimize customer experiences. Whether you're looking to discuss customer success strategies, team leadership, or SaaS best practices, I'd love to connect!
 
-```bash
-npm start
-```
-
-5. **Visit the Local Server**: Open your browser and navigate to the local server URL.
-   ![alt text](image.png)
+- 📧 Email: vishalanand.work@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/vishal-anand](https://linkedin.com/in/vishal-anand)
+- 📱 Phone: +91 91636 17276
 
 ---
 
-## 🤝 Contribution Guidelines
+## 🌟 Portfolio Highlights
 
-Contributions are welcome and appreciated! 🥳 To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Commit your changes with a descriptive message.
-4. Push your changes to your branch.
-5. Open a Pull Request. 🎉
-
----
-
-## 🐛 Issues and Feature Requests
-
-Found a bug? Have a feature in mind? 🤔 Feel free to raise an issue or suggest a feature!
-
-1. Go to the **Issues** tab in the repository.
-2. Click **New Issue**.
-3. Provide a clear description of the bug or feature request.
-4. If applicable, include screenshots or steps to reproduce the issue.
-
-Your feedback is valuable and helps make this project better for everyone. Thank you for contributing!
+- ✅ **80% Average Renewal Rate** across SMB & Enterprise
+- 📈 **₹6.5M Revenue Expansion** in 12 months
+- ⭐ **95% CSAT** and **30+ NPS** scores
+- 🎯 **156% of Target** achieved in peak month
+- 📉 **Churn Reduction** from 30% to 18%
+- ⚡ **90% Response Time Reduction** through process optimization
+- 👥 Led **4 direct reports** and coordinated **30+ stakeholders**
 
 ---
 
-## 🌟 Acknowledgments
-
-- Thanks to [DatoCMS](https://www.datocms.com) for powering the dynamic content.
-- Inspired by countless developers in the open-source community. 💻
-- Special shoutout to all contributors—you rock! 🤘
-
----
-
-## 📧 Contact Me
-
-- 💼 [Portfolio Website](https://sumanthsamala.com)
-- 📧 Email: [chintusamala96@gmail.com](mailto:chintusamala96@gmail.com)
-- 🔗 [LinkedIn](https://uk.linkedin.com/in/sumanth-samala-82431161)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use it, modify it, and share it! 🌈
-
----
+*This portfolio is built using React and showcases my professional journey in Customer Success leadership. Feel free to explore and reach out!*
